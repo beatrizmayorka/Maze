@@ -1,2 +1,5 @@
 # Maze
-Maze in Python 
+    Maze in Python 
+
+# Programmers 
+    Beatriz Mayorka de Aguiar and Pedro Henrique de Medeiros
