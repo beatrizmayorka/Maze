@@ -128,6 +128,7 @@ def print_solution(maze, path):
 
     sleep = .3
     if(belch):
+      print("Arroto")
       sleep = 3
     time.sleep(sleep)
 
